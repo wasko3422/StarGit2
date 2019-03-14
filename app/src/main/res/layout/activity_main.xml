@@ -23,4 +23,30 @@
         tools:layout_editor_absoluteX="78dp"
         tools:layout_editor_absoluteY="133dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="237dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="52dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="400dp" />
+
 </android.support.constraint.ConstraintLayout>
